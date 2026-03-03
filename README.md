@@ -148,11 +148,11 @@ numpy
 ## Citation
 
 ```bibtex
-@article{li2025nullcones,
+@article{li2026nullcones,
   title={Neural Null Cones: Zero-Curvature Channels in Loss Landscapes
          from Symplectic Hessian Decomposition},
   author={Li, Y.Y.N.},
-  year={2025}
+  year={2026}
 }
 ```
 
